@@ -1,1 +1,2 @@
 - [[hjroyal's digital garden]]
+- [[hjroyal's blog]]
