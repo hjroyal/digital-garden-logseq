@@ -1,2 +1,1 @@
-- [[Index]]
--
+- [[hjroyal's digital garden]]

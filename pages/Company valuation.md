@@ -1,7 +1,0 @@
-- Revenue
-- P/E
-- EBIDTA
-- **Margins**
-- Repurchase of stock
-- cyclical, counter-cyclical, constant
-- growth, dividends, ...
