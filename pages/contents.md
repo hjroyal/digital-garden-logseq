@@ -2,3 +2,4 @@
 - [[hjroyal's blog]]
 - [[hjroyal's 500px]]
 - ⭐⭐⭐⭐⭐⭐⭐⭐
+- [[Logseq使用记录]]
