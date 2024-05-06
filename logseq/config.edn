@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites []
+ :favorites ["Logseq使用记录"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -416,4 +416,5 @@
  :graph/settings {:journal? true
  :builtin-pages? true
  :orphan-pages? true
- :excluded-pages? true}}
+ :excluded-pages? true}
+ :feature/enable-flashcards? false}
