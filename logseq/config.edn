@@ -417,4 +417,4 @@
  :builtin-pages? true
  :orphan-pages? true
  :excluded-pages? true}
- :feature/enable-flashcards? false}
+ :feature/enable-flashcards? true}
