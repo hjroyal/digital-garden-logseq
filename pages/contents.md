@@ -2,3 +2,6 @@
 - [[hjroyal's blog]]
 - [[hjroyal's 500px]]
 - ⭐⭐⭐⭐⭐⭐⭐⭐
+- [Nowcoder](https://www.nowcoder.com/)
+- [LeetCode](https://leetcode.cn/)
+- [Quantum Leaps](https://www.state-machine.com/)
