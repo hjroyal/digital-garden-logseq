@@ -37,6 +37,7 @@ file-path:: ../assets/Samek_2008_Practical_UML_Statecharts_in_C-C++,_Second_Edit
   ls-type:: annotation
   id:: 6638ad5b-4eb2-4d12-b2ca-3a2874863339
   hl-color:: yellow
+	- {{embed ((667043e4-2c70-487d-808c-5954b9c91b9b))}}
 - 第 4 章 层次式事件处理器的实现
   hl-page:: 10
   ls-type:: annotation
@@ -166,3 +167,12 @@ file-path:: ../assets/Samek_2008_Practical_UML_Statecharts_in_C-C++,_Second_Edit
   hl-page:: 290
   hl-color:: yellow
   id:: 6638c75f-974e-4b80-bd88-0043cfc9dbcc
+- 状态机在高级编程语言比如 C 或 C++ 里典型的实现方法包括：
+  hl-page:: 90
+  ls-type:: annotation
+  id:: 667043e4-2c70-487d-808c-5954b9c91b9b
+  hl-color:: green
+	- 嵌套的 switch 语句
+	- 状态表
+	- 面向对象的状态设计模式，以及
+	- 综合以上方法的其他技术
