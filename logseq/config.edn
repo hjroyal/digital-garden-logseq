@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["有意栽花花满枝" "博客网站荟萃" "Index" "Logseq使用记录"]
+ :favorites ["logseq" "有意栽花花满枝" "博客网站荟萃" "Index"]
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -413,7 +413,7 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy-MM-dd EEEE"
- :graph/settings {:journal? false
+ :graph/settings {:journal? true
  :builtin-pages? true
  :orphan-pages? true
  :excluded-pages? true}
