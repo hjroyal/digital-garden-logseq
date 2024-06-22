@@ -1,0 +1,3 @@
+tags:: python
+
+- [Python最佳实践指南！ — The Hitchhiker's Guide to Python (codingdict.com)](https://doc.codingdict.com/python-guide-cn/index.html)
